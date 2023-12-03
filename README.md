@@ -3,14 +3,14 @@
 Using ChatGPT to supercharge your mobile workflows using iOS Shortcuts. This repo contains a list of automations that combine the power of some OpenAI's APIs like ChatGPT and Whisper, allowing you to do perform tasks like,
 
 ### Quick Summaries
-- [**Ask ChatGPT from Screenshot**](#ask-chatgpt-from-screenshot-📱➡🤖) : Get text on Screen and summarize it using ChatGPT 
-- [**Ask ChatGPT (from ShareSheet by URL)**](#ask-chatgpt-from-sharesheet-by-url-🌐➡🤖) Share a URL to directly share text and ask questions from ChatGPT
-- [**Whisper Transcribe**](#whisper-transcribe-🎙️➡🤖) Share an Audio and get a summary/translation from ChatGPT
-- [**Anti-Doom Scroll**](#anti-doom-scroll-📜❌) Roasts you when you open any app that you have configured in the shortcut.
+- [**Ask ChatGPT from Screenshot**](#ask-chatgpt-from-screenshot) 📱➡🤖 : Get text on Screen and summarize it using ChatGPT 
+- [**Ask ChatGPT (from ShareSheet by URL)**](#ask-chatgpt-from-sharesheet-by-url) 🌐➡🤖 Share a URL to directly share text and ask questions from ChatGPT
+- [**Whisper Transcribe**](#whisper-transcribe) 🎙️➡🤖 Share an Audio and get a summary/translation from ChatGPT
+- [**Anti-Doom Scroll**](#anti-doom-scroll) 📜❌ Roasts you when you open any app that you have configured in the shortcut.
 
 ## Shortcuts
 
-1. ### Ask ChatGPT from Screenshot 📱➡🤖
+1. ### Ask ChatGPT from Screenshot
 **What does it do?**
 
 This shortcut allows you extract text from any screen, translate it, summarize it and ask questions from it using ChatGPT.
@@ -36,7 +36,8 @@ It is especially useful for apps that don't let you copy/paste the text. You can
 
 <img src = "demo/ask_gpt_screen.gif" width="250px">
 
-2. ### Ask ChatGPT (from ShareSheet by URL) 🌐➡🤖
+2. ### Ask ChatGPT (from ShareSheet by URL)
+
 **What does it do?**
 
 This shortcut allows you to share any URL, from browser or any other app, extracts the text, translate it, summarize it and/or ask questions from it using ChatGPT.
@@ -61,7 +62,7 @@ This shortcut is only visible when you press on the "Share" button. Here's how i
 
 <img src = "demo/ask_gpt_share.gif" width="250px">
 
-3. ### Whisper transcribe 🎙️➡🤖
+3. ### Whisper transcribe
 **What does it do?**
 This shortcut allows you to share any audio file, from browser or any other app, extracts the text, translate and summarize it .
 
@@ -92,7 +93,7 @@ This shortcut is only visible when you press on the "Share" button. Here's how i
 
 <img src = "demo/whisper_transcribe.gif" width="250px">
 
-4. ### Anti-Doom Scroll 📜❌
+4. ### Anti-Doom Scroll
 **What does it do?**
 
 Roasts you when you open any app that you have configured in the shortcut. It is especially useful for apps like Twitter, Instagram, Facebook etc. that you want to use less.
