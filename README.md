@@ -103,7 +103,7 @@ Roasts you when you open any app that you have configured in the shortcut. It is
 Here's how it works,
 1. Gets the current time.
 2. Asks ChatGPT to generate a random roast based on the time of the day for the given app you have configured.
-3. Sends you an alert with the roast.
+3. Sends you an alert with the roast whenever you open the app.
 
 **How to use?**
 
