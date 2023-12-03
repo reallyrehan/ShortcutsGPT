@@ -1,5 +1,5 @@
 # ShortcutsGPT
-### Awesome shortcuts using ChatGPT [<img src = "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/chatgpt-icon.png" width="15px;" height="15px">&nbsp;&nbsp;&nbsp;](https://chat.openai.com/)
+### Awesome iOS Shortcuts using ChatGPT [<img src = "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/chatgpt-icon.png" width="15px;" height="15px">](https://chat.openai.com/)[<img src = "https://help.apple.com/assets/645D5D228BE0233D28263F4B/645D5D258BE0233D28263F5A/en_US/d230a25cb974f8908871af04caad89a1.png" width="15px;" height="15px">](https://support.apple.com/guide/shortcuts/welcome/ios)🪄
 Using ChatGPT to supercharge your mobile workflows using iOS Shortcuts. This repo contains a list of automations that combine the power of some OpenAI's APIs like ChatGPT and Whisper, allowing you to do perform tasks like,
 
 ### Quick Summaries
